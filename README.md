@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm a software engineer driven by curiousity and loves picking up new skills and ideas.
 
-![Header](./github-header-image.png)
+![Header](./github-heade?-image.png)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,6 +30,9 @@ I'm a software engineer driven by curiousity and loves picking up new skills and
 ###
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qtran31&show_icons=true&locale=en" alt="qtran31" /></p>
+
+
+
 
 
 <!--
